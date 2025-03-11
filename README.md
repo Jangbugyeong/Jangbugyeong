@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+-신구대학교 AI 소프트웨어과 학생
 <!--
 **Jangbugyeong/Jangbugyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
